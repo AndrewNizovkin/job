@@ -75,3 +75,7 @@ GeekBrains
 - тел:   +7 928 178 78 45
 
 - email: andreynizovkin@inbox.ru
+
+- email: nizovkinandrej@gmail.com
+
+- telegram: @andrew_nizovkin
