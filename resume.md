@@ -40,7 +40,7 @@
 
 - Разработка десктопных приложений **Java Swing**
 
-- Разработка тестов **Junit**, **Mokito**, **Spring WebFlux**
+- Разработка тестов **Junit**, **Mockito**, **Spring WebFlux**
 
 - Разработка документации API **Swagger**
 
