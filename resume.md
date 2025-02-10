@@ -54,7 +54,7 @@
 
 - [Geocatalog](https://github.com/AndrewNizovkin/diploma) - веб-сервис для работы с базой данных геодезических пунктов.
 
-- [Geocalculator](https://github.com/AndrewNizovkin/geocalculator.git) - в разработке.
+- [Geocalculator](https://github.com/AndrewNizovkin/geocalculator.git) - веб-сервис для решения прикладных задач геодезии используемых в строительстве, изысканиях, навигации.
 
 ## Образование
 
